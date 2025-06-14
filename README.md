@@ -1,6 +1,6 @@
 # Web Scraper Nabídek Pronájmu
 Hlídá nové nabídky na populárních realitních serverech.
-
+ 
 [**Docker image (aktuální z master větvě) - `janch32/web-scraper-nabidek-pronajmu`**](https://hub.docker.com/r/janch32/web-scraper-nabidek-pronajmu)
 
 *Tato aplikace byla vytvořena pro osobní použití, takže obsahuje hardkódované údaje pro hledání pronájmu bytů v Brně (ale nemělo by být zas tak moc těžký to upravit).*
