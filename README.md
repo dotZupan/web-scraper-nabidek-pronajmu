@@ -9,7 +9,7 @@ Nicméně je možné při spuštění aplikace nakonfigurovat, které  **dispozi
 
 ## Podporované realitní servery
 - BRAVIS
-- EuroBydlení
+- EuroBydlení 
 - iDNES Reality
 - REALCITY
 - realingo
